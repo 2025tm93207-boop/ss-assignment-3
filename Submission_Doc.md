@@ -12,11 +12,11 @@ https://drive.google.com/file/d/11GllM9bcXQ-mp_RrbORDs8s-NnSvwJCH/view?usp=drive
 
 | S.No | Name | Email | Contribution (%) | Key Responsibilities |
 |------|------|-------|------------------|----------------------|
-| 1 | ADITYA SEKHAR | 2025tm93080@wilp.bits-pilani.ac.in | 20% | Patient Service & Appointment Service development; Minikube cluster setup; Kubernetes manifests; deployment orchestration |
-| 2 | MANASA BHAT | 2025tm93082@wilp.bits-pilani.ac.in | 20% | Billing Service development; Prometheus & Grafana monitoring stack; metrics endpoint implementation |
-| 3 | SHARMA VANDANA DINESHCHANDRA SHARDA | 2025tm93207@wilp.bits-pilani.ac.in | 20% | Prescription Service development; Docker Compose infrastructure; inter-service communication testing |
-| 4 | PRASANNA VENKAT | 2024tm93611@wilp.bits-pilani.ac.in | 20% | Doctor Schedule Service development; CSV dataset preparation; seed script (`seed_all.py`); data normalization |
-| 5 | UPPU VINOD KUMAR | 2025tm93233@wilp.bits-pilani.ac.in | 20% | Demo UI (React) development; Swagger UI integration; end-to-end workflow testing; documentation |
+| 1 | ADITYA SEKHAR | 2025tm93080@wilp.bits-pilani.ac.in | 20% | Initial Services development; Kubernetes manifests; deployment orchestration |
+| 2 | MANASA BHAT | 2025tm93082@wilp.bits-pilani.ac.in | 20% | 	Prometheus & Grafana monitoring stack; metrics endpoint implementation; documentation |
+| 3 | SHARMA VANDANA DINESHCHANDRA SHARDA | 2025tm93207@wilp.bits-pilani.ac.in | 20% | Minikube infrastructure; constraint implementation |
+| 4 | PRASANNA VENKAT | 2024tm93611@wilp.bits-pilani.ac.in | 20% |  CSV dataset preparation; seed script (seed_all.py); data normalization |
+| 5 | UPPU VINOD KUMAR | 2025tm93233@wilp.bits-pilani.ac.in | 20% | End-to-end workflow testing; documentation |
 
 ---
 
